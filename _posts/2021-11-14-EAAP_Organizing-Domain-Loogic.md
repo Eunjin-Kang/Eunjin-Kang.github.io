@@ -8,7 +8,7 @@ last_modified_at: 2021-11-14T08:06:00-05:00
 
 마틴파울러의 앤터프라이즈 애플리케이션 아키텍처 패턴을 읽고 정리하는 공간.
 <figure>
-	<a href="https://book.naver.com/bookdb/book_detail.naver?bid=9699564"><img src="/assets/images/Martin_Fowler.png"></a>
+	<a href="https://book.naver.com/bookdb/book_detail.naver?bid=9699564"><img src="./assets/images/Martin_Fowler.png"></a>
 	<figcaption><a href="https://book.naver.com/bookdb/book_detail.naver?bid=9699564" title="네이버 책소개">네이버 책소개</a>.</figcaption>
 </figure> 
 
