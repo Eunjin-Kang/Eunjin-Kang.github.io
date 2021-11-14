@@ -10,6 +10,7 @@
   -webkit-animation-delay: 0.15s;
   animation-delay: 0.15s;
   z-index: 20;
+  height: 10em;
 
   &__inner-wrap {
     @include clearfix;
@@ -50,6 +51,7 @@
   -ms-flex-item-align: center;
   align-self: center;
   font-weight: bold;
+  size: 18px;
   // z-index: 20;
 }
 
