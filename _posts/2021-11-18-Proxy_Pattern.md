@@ -55,7 +55,8 @@ public class MapLoadTestDrive {
 ```
 
 <b>결과</b>
-![icon](/assets/images/Proxy_output1.png)
+![Proxy_output1](https://user-images.githubusercontent.com/24424620/142250291-b60b544f-7170-4aba-aa0e-a0aec73af003.PNG)
+
 
 위와 같은 코든느 객체 생성과 동시에 Map을 로딩하므로 초기 화면을 띄우는 데 아주 많은 시간이 소요되고,<br>
 바쁘다 바빠 현대사회에선 n초의 빈 화면을 수용할 수 없다. <br>다수의 사람들은 자신의 노트북의 성능을 의심하거나 화를 내며 냅다 화면을 꺼버리겠지(So do I)
