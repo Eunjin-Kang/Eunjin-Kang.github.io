@@ -101,7 +101,7 @@ public class MapLoadTestDrive {
 ```
 
 <b>결과</b>
-![icon](/assets/images/Proxy_output2.png)
+![icon](/assets/images/Proxy_output2.PNG)
 <br>
 
 Proxy 패턴을 적용하여 실객체(RealMap)를 직접 제어하였을 때의 단점을 보완하였다. <br>
